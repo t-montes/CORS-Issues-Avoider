@@ -41,7 +41,7 @@ npm run watch
 
 ## Self hosted Proxy
 ```batch
-node vanilla-frontend/node node_modules/cors-anywhere/server.js
+node vanilla-frontend/node_modules/cors-anywhere/server.js
 ```
 > The proxy is a NodeJS server that uses the CORS Anywhere library to proxy requests to the backend and avoid CORS issues. It will be running on port 8080.
 >
