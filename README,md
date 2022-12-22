@@ -1,6 +1,6 @@
 Author: [Tony Santiago Montes Buitrago](mailto:santiago.montesb@gmail.com)
 
-# Project: CORS Avoider
+# Project: CORS Issues Avoider
 
 The following project is a simple example of how to avoid CORS issues when making requests to any backend from a frontend. It is well documented and has comments in the code to explain what is happening, as in the backend and the frontend (the proxy is not mine, but it is well documented too).
 
